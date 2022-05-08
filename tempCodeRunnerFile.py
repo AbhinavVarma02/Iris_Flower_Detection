@@ -1,0 +1,1 @@
+df=pd.read_csv('iris.data.csv')
